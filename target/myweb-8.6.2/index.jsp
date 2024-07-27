@@ -9,7 +9,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED JENKINS </h1>
-	<h1 style="color: indigo; font-size: 40px;" align="center">WE INTEGRATED TOMCAT TO JENKINS</h1>
+	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED TOMCAT TO JENKINS</h1>
 	
 	
 	
